@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://airseal.in/" target="_blank"><img src="{{url('assets/images/logo/logo-trans.webp')}}" width="100"></a></p>
+<p align="center"><a href="https://airseal.in/" target="_blank"><img src="assets/images/logo/logo-trans.webp" width="100"></a></p>
 
 
 ## About Project
@@ -11,4 +11,4 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Website video
 
-<video src="assets/video/website.mp4" width="300" />
+<video src="assets/video/allwebsite.mp4" width="300" />
